@@ -24,7 +24,7 @@ We believe that classic games deserve a modern home. That's why RetroArc abandon
 
 <div align="center">
   <!-- Note: Replace the URL below with actual screenshots of your app -->
-  <img src="https://via.placeholder.com/800x400/1a1a1a/ffffff?text=Add+A+Beautiful+App+Screenshot+Here" alt="RetroArc UI Screenshot" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+  <img src="/AppIcon.icns" alt="RetroArc UI Screenshot" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
 </div>
 
 <br/>
