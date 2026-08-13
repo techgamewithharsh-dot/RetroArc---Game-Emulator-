@@ -1,5 +1,5 @@
 <div align="center">
-  
+ <img src="RetroArc-app-icon-1024.png" width="250" alt="RetroArc UI Screenshot" style="border-radius: 20%; box-shadow: 0 10px 30px rgba(0,0,0,0.5);"> 
 # 🕹️ RetroArc
 **The Ultimate Classic Game Engine for Apple Platforms**
 
@@ -22,10 +22,7 @@ We believe that classic games deserve a modern home. That's why RetroArc abandon
 
 <br/>
 
-<div align="center">
-  <!-- Note: Replace the URL below with actual screenshots of your app -->
-  <img src="RetroArc-app-icon-1024.png" alt="RetroArc UI Screenshot" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
-</div>
+<img src="RetroArc-app-icon-1024.png" width="250" alt="RetroArc UI Screenshot" style="border-radius: 20%; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
 
 <br/>
 
