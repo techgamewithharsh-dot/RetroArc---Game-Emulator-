@@ -1,6 +1,7 @@
 <div align="center">
  <img src="RetroArc-app-icon-1024.png" width="250" alt="RetroArc UI Screenshot" style="border-radius: 20%; box-shadow: 0 10px 30px rgba(0,0,0,0.5);"> 
-# 🕹️ RetroArc
+
+ # 🕹️ RetroArc
 **The Ultimate Classic Game Engine for Apple Platforms**
 
 [![iOS](https://img.shields.io/badge/iOS-15.0+-black.svg?style=for-the-badge&logo=apple)](https://apps.apple.com/)
