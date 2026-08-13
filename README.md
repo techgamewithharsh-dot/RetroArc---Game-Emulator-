@@ -45,22 +45,6 @@ Want to contribute or build RetroArc yourself? The project is fully compatible w
 - Xcode 15.0 or later
 - An active Apple Developer Account (for device provisioning)
 
-### Quick Start
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/RetroArc.git
-   cd RetroArc
-   ```
-2. **Open the project in Xcode**
-   ```bash
-   open "RetroArc - Game Emulator.xcodeproj"
-   ```
-3. **Configure Signing**
-   - Select the `RetroArc` project in the Project Navigator.
-   - Go to the **Signing & Capabilities** tab.
-   - Select your personal or organization Development Team for all targets (iOS, macOS, tvOS).
-4. **Build and Run (⌘R)**
-   - Select your desired target simulator or connected device and hit Run.
 
 ## ⚖️ Legal Disclaimer
 
